@@ -12,7 +12,7 @@ y luego ejecuta:
 
 `$ composer install`
 
-Si no quieres usar _composer_, indica en la cabecera tu fichero php:
+Si no quieres usar _composer_, indica en la cabecera de tu fichero php:
 
 `require_once 'src/AjuntamentDeCastello/Kanban/CastelloKanbanBoard.php';`
 
