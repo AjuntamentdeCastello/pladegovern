@@ -1,0 +1,12 @@
+﻿Add the following to require property of your composer.json file:
+
+"ajuntamentdecastello/pladegovern"
+
+then run:
+
+$ composer install
+
+If you do not want to use composer, indicate in the header your php file:
+
+require_once 'src/AjuntamentDeCastello/Kanban/Board.php';
+

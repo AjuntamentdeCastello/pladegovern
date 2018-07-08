@@ -1,0 +1,113 @@
+/* Dashboard Styles */
+
+body {
+  margin-top: 0px;
+}
+
+.navbar {
+	border: 1px solid #CCCCCC;
+	background-color: #DFF0D8;	
+}
+
+.navbar-header { 
+  margin-bottom: 105px; 
+}
+
+#wrapper {
+    max-width: 989px;
+    margin: 0 auto;
+}
+
+#page-wrapper {
+    position: inherit;
+    margin: 0 0 0 50px;
+    padding: 0 30px;
+    min-height: 1300px;
+    background-color: #fff;
+    border: 1px solid #e7e7e7;
+}
+
+.hugem {
+    font-size: 27px;
+}
+
+.hugesubtitle {
+    font-size: 16px;
+}
+
+.panel-blue {
+    border-color: #337AB7;
+}
+
+.panel-blue .panel-heading {
+    border-color: #337AB7;
+    color: #fff;
+    background-color: #337AB7;
+}
+
+.panel-blue a {
+    color: #337AB7;
+}
+
+.panel-blue a:hover {
+    color: #337AB7;
+}
+
+.panel-green {
+    border-color: #009688;
+}
+
+.panel-green .panel-heading {
+    border-color: #009688;
+    color: #fff;
+    background-color: #009688;
+}
+
+.panel-green a {
+    color: #009688;
+}
+
+.panel-green a:hover {
+    color: #009688;
+}
+
+.panel-orange {
+    border-color: #FF5252;
+}
+
+.panel-orange .panel-heading {
+    border-color: #FF5252;
+    color: #fff;
+    background-color: #FF5252;
+}
+
+.panel-orange a {
+    color: #FF5252;
+}
+
+.panel-orange a:hover {
+    color: #FF5252;
+}
+
+
+.panel-grey {
+    border-color: #757575;
+}
+
+.panel-grey .panel-heading {
+    border-color: #757575;
+    color: #fff;
+    background-color: #757575;
+}
+
+.panel-grey a {
+    color: #757575;
+}
+
+.panel-grey a:hover {
+    color: #757575;
+}
+
+.panel-footer {
+    font-size: 16px;
+}
