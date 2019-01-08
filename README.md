@@ -38,7 +38,7 @@ Por simplicidad, estas bibliotecas se incorporan al _cuadro de mando ejemplo_ me
 
 ## Licencia
 
-Copyright &copy; 2016-2018 Ayuntamiento de Castelló (Castellón, Spain).
+Copyright &copy; 2016-2019 Ayuntamiento de Castelló (Castellón, Spain).
  
 Este trabajo está licenciado bajo [European Union Public Licence (EUPL)](https://joinup.ec.europa.eu/collection/eupl/eupl-guidelines-faq-infographics).
 
