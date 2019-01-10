@@ -14,5 +14,7 @@
             "AjuntamentDeCastello\\Kanban\\": "src/AjuntamentDeCastello/Kanban/"
         }
     },
-    "require": {}
+    "require": {
+		"php": ">=5.5.0"
+	}
 }
