@@ -1,6 +1,6 @@
 # Pla de Govern
 
-[El cuadro de mando del Pla de Govern del Ayuntamiento de Castelló](http://www.castello.es/frontal/plagovern/pages/estat.php) se utiliza para ver el grado de avance en el cumplimiento del plan de gobierno del Ayuntamiento de Castelló. Los datos para el cuadro de mando vienen del [tablero _Trello_](https://trello.com/b/gffJXegr/pla-de-govern-ajuntament-de-castello-de-la-plana) donde se gestiona el cumplimiento de los compromisos.
+Los cuadros de mandos del Pla de Govern del Ayuntamiento de Castelló ([Acuerdo del Grao](https://www.castello.es/frontal/plagovern/acordgrau/pages/estat2019.php) y [Acuerdo de Fadrell](https://www.castello.es/frontal/plagovern/acordfadrell/pages/estat.php)) se utilizan para ver el grado de avance en el cumplimiento de los plan de gobierno del Ayuntamiento de Castelló (Acuerdo del Grao: 2015-2019, Acuerdo de Fadrell: 2019-2023). Los datos para los cuadros de mando vienen de los tableros _Trello_ ([tablero _Trello_ 2019-2023](https://trello.com/b/XnL7ueXk/pla-de-govern-municipal-2019-2023) donde se gestionan el cumplimiento de los compromisos.
 
 ## Instalación
 
@@ -33,12 +33,12 @@ Por simplicidad, estas bibliotecas se incorporan al _cuadro de mando ejemplo_ me
 ## Para más información
 
 * [Ayuntamiento de Castelló - Pla de Govern - Programa de Gobierno Municipal](http://pladegovern.castello.es)
-* [Ayuntamiento de Castelló - Pla de Govern - Tablero Trello](https://trello.com/b/gffJXegr/pla-de-govern-ajuntament-de-castello-de-la-plana)
+* [Ayuntamiento de Castelló - Pla de Govern - Tablero Trello 2019-2023](https://trello.com/b/XnL7ueXk/pla-de-govern-municipal-2019-2023)
 * [Ayuntamiento de Castelló - Pla de Govern - Trello: ¿Qué es y por qué lo usamos?](http://www.castello.es/frontal/plagovern/pages/trello_what_is.php)
 
 ## Licencia
 
-Copyright &copy; 2016-2019 Ayuntamiento de Castelló (Castellón, Spain).
+Copyright &copy; 2015-2019 Ayuntamiento de Castelló (Castellón, Spain).
  
 Este trabajo está licenciado bajo [European Union Public Licence (EUPL)](https://joinup.ec.europa.eu/collection/eupl/eupl-guidelines-faq-infographics).
 
