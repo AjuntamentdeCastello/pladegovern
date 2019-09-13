@@ -3,6 +3,7 @@
 Los cuadros de mandos del Pla de Govern del Ayuntamiento de Castelló se utilizan para ver el grado de avance en el cumplimiento de los planes de gobierno del Ayuntamiento de Castelló:
 - [2015-2019 (Acuerdo del Grao)](https://www.castello.es/frontal/plagovern/acordgrau/pages/estat2019.php)
 - [2019-2023 (Acuerdo de Fadrell)](https://www.castello.es/frontal/plagovern/acordfadrell/pages/estat.php)
+
 Los datos para los cuadros de mando vienen de los tableros _Trello_ ([tablero _Trello_ 2019-2023](https://trello.com/b/XnL7ueXk/pla-de-govern-municipal-2019-2023) donde se gestionan el cumplimiento de los compromisos.
 
 ## Instalación
