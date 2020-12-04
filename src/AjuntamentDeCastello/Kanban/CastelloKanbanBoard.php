@@ -128,7 +128,7 @@ class CastelloKanbanBoard
 		# $response = file_get_contents($this->_individual_board_url, false, $ctx);
 
 		$ch = curl_init();
-		curl_setopt($ch, CURLOPT_URL, $url_individual_board_json);
+		curl_setopt($ch, CURLOPT_URL, $this->_individual_board_url);
 		curl_setopt($ch, CURLOPT_USERAGENT, "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)");
 		curl_setopt($ch, CURLOPT_HEADER, 0);
 		curl_setopt($ch, CURLINFO_HEADER_OUT, TRUE);
